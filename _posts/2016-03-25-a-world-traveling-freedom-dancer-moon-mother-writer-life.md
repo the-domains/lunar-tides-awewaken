@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'A world traveling Freedom Dancer, Moon Mother, Writer, Life Lover, Surfer, Yogini, Priestess and Ceremonial Artist.'
-datePublished: '2016-03-25T18:39:55.849Z'
-dateModified: '2016-03-25T18:39:09.841Z'
-title: ''
+datePublished: '2016-03-27T21:39:05.431Z'
+dateModified: '2016-03-27T21:39:03.472Z'
+title: Janna Valentina Sky (Janaina)
 author: []
+sourcePath: _posts/2016-03-25-a-world-traveling-freedom-dancer-moon-mother-writer-life.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-a-world-traveling-freedom-dancer-moon-mother-writer-life.md
-published: true
 url: a-world-traveling-freedom-dancer-moon-mother-writer-life/index.html
 _type: Article
 
@@ -39,7 +39,7 @@ As we Awaken to Unity ~ Gaia is Awakening to manifest as Heaven on Earth.
 ✧
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e208e381-54ae-40bb-afcc-c22bccbde7b1.jpg)
 
-Feminine Empowerment:   
+**Feminine Empowerment**
 
 Janna offers a variety of services to help women heal unhelpful patterns and better align with their true feminine nature. Based on your unique needs, your sessions can incorporate a Womb Blessing, Womb Healing, Yoni Blessing, Pregnancy and Post Partum Ceremony, First Moon Ceremony for Girls, Energy work with a Shamanic approach, and techniques to help you understand each of the four phases of your menstrual cycle and how to align your work & life routine accordingly.
 
