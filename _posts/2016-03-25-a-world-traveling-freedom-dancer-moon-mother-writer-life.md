@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A world traveling Freedom Dancer, Moon Mother, Writer, Life Lover, Surfer, Yogini, Priestess and Ceremonial Artist.'
-datePublished: '2016-03-27T21:57:45.239Z'
-dateModified: '2016-03-27T21:57:27.547Z'
+datePublished: '2016-03-27T21:59:37.786Z'
+dateModified: '2016-03-27T21:59:23.715Z'
 title: Womb Blessing
 author: []
 sourcePath: _posts/2016-03-25-a-world-traveling-freedom-dancer-moon-mother-writer-life.md
