@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A world traveling Freedom Dancer, Moon Mother, Writer, Life Lover, Surfer, Yogini, Priestess and Ceremonial Artist.'
-datePublished: '2016-03-27T22:01:38.443Z'
-dateModified: '2016-03-27T22:01:13.643Z'
+datePublished: '2016-03-27T22:03:29.749Z'
+dateModified: '2016-03-27T22:03:29.173Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-03-25-a-world-traveling-freedom-dancer-moon-mother-writer-life.md
@@ -22,6 +22,7 @@ url: a-world-traveling-freedom-dancer-moon-mother-writer-life/index.html
 _type: Article
 
 ---
+Janna Valentina Sky
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0321c5c6-9040-4df7-8407-f0ad16dac79c.jpg)
 
 A world traveling Freedom Dancer, Moon Mother, Writer, Life Lover, Surfer, Yogini, Priestess and Ceremonial Artist.
@@ -38,8 +39,6 @@ As we Awaken to Unity ~ Gaia is Awakening to manifest as Heaven on Earth.
 
 ✧
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7a946c4808143c6b11deef8729ad39f2/passthrough.jpg?height=140&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe208e381-54ae-40bb-afcc-c22bccbde7b1.jpg&width=180)
-
-# 
 
 Janna offers a variety of services to help women heal unhelpful patterns and better align with their true feminine nature. Based on your unique needs, your sessions can incorporate a Womb Blessing, Womb Healing, Yoni Blessing, Pregnancy and Post Partum Ceremony, First Moon Ceremony for Girls, Energy work with a Shamanic approach, and techniques to help you understand each of the four phases of your menstrual cycle and how to align your work & life routine accordingly.
 
