@@ -1,7 +1,7 @@
-name: ☽○☾Lunar Tides AweWaken
+name: ☽◯☾Lunar Tides AweWaken
 favicon: null
-layout_spectrum: 0.53403
-typography_spectrum: 0.1
+layout_spectrum: 0.49894
+typography_spectrum: 0.77895
 title: '☽◯☾Awakening to Self Love '
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#725979'
     - '#2a3249'
     - '#e78b8c'
-  brandStrength: 0.75
-  lightness: 0.41566061810590327
+  brandStrength: 0
+  lightness: 0.5
   saturation: 0.375
   rhythmicContrast: 0.12021285155788064
 purpose: []
